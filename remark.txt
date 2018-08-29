@@ -2,19 +2,19 @@ CSCA08 Remark Request Form
 ------------------------------
 READ THE FOLLOWING CAREFULLY
 
-This e-mail must be sent to Eric Wang <ericheqi.wang@utoronto.ca>. You may download the file or copy the content.
+This e-mail must be sent to Jason Cheung <kkjason.cheung@mail.utoronto.ca>. You may download the file or copy the content.
 The subject line must be exactly shown as below (replacing the parts in brackets with the appropriate info),
 and must be sent within 1 week of the assignment mark being posted:
 
 
 
 
-<CSCA08 Remark: Assignment __3__>
+<CSCA08 Remark: Assignment __#__>
 
 ------------------------------
 Full Name:
 MarkUs Username (UTORid):
-Assignment: 3
+Assignment: #
 
 Please put a X beside the reason for this remark request, and complete the related fields:
 
